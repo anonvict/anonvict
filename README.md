@@ -1,11 +1,10 @@
 <h1 align="center">WELCOME 🧠✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=100&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Dunia+Maya+%F0%9F%94%AE;Hiduplah+Seperti+Larry🦀;BerEksperimenlah!;Keep+Learning+and+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=100&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Dunia+Digital+👋;">
 </p>
 
 ---
 
-<h3 align="center">💻 About Me 💻</h3>
 <p align="center">
   📡 <b>Selalu Online</b>
   (kecuali pas tidur 😴)
@@ -13,7 +12,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<h3 align="center">🔥 GitHub Stats 🧐</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anonvict&show_icons=true&theme=tokyonight" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonvict&theme=tokyonight" width="49%">
