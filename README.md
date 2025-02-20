@@ -14,7 +14,7 @@
 
 <h3 align="center">🔥 GitHub Stats 🧐</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonvict&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonvict&show_icons=true&theme=tokyonight" width="46%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonvict&theme=tokyonight" width="49%">
 </p>
 
