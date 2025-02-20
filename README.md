@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME 🧠✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=100&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Dunia+Digital+👋;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=10&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Dunia+Digital+👋;">
 </p>
 
 ---
