@@ -1,17 +1,14 @@
-<h1 align="center">🚀 WELCOME TO MY SPACE 🛸</h1>
+<h1 align="center">WELCOME 🧠✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Gua+%F0%9F%91%91;Cyber+Enthusiast+%F0%9F%94%AE;Selalu+Ngoding+dan+Eksperimen!;Keep+Learning+and+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=100&color=1DF7FF&center=true&vCenter=true&width=600&lines=Halo!+Dunia+Maya+%F0%9F%94%AE;Hiduplah+Seperti+Larry🦀;BerEksperimenlah!;Keep+Learning+and+Growing!">
 </p>
 
 ---
 
 <h3 align="center">💻 About Me 💻</h3>
 <p align="center">
-  🚀 <b></b>suka ngulik sistem & AI  
-  🔥 saya sering main di <b>Linux, Termux, Python, & Reverse Engineering</b>  
-  🤖 Ngembangin AI buat proyek nguwawor 😹!  
   📡 <b>Selalu Online</b>
-  (kecuali pas tidur 😴)  
+  (kecuali pas tidur 😴)
 </p>
 
 ---
@@ -38,17 +35,16 @@
 
 ---
 
-<h3 align="center">⚡ Skills & Tools ⚡</h3>
+<h3 align="center">⚡ Bahasa Favorit ⚡</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,arduino,vscode,github,git,html,css,js,php" width="600">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,php" width="600">
 </p>
 
 ---
 
 <h3 align="center">📫 Contact Me 📫</h3>
 <p align="center">
-  <a href="https://t.me/x7cyber"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:x7cyber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://github.com/anonvict"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
