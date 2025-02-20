@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="center">⚡ Bahasa Favorit ⚡</h3>
+<h3 align="center">❤️ Favorit ❤️</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,php" width="600">
 </p>
