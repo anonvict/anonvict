@@ -7,10 +7,8 @@
 
 <p align="center">
   📡 <b>Selalu Online</b>
-  (kecuali pas tidur 😴)
+  (kecuali tidur 😴)
 </p>
-
----
 
 <h3 align="center">🔥 GitHub Stats 🧐</h3>
 <p align="center">
